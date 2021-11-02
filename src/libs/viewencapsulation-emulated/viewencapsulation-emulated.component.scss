@@ -19,3 +19,7 @@ div {
     }
   }
 }
+
+:host-context(.red) .divBlock {
+  font-size: 40px;
+}

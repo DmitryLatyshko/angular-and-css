@@ -3,3 +3,14 @@
   flex-direction: row;
   gap: 20px;
 }
+
+
+::ng-deep .container {
+     viewencapsulation-emulated {
+      .divBlock {
+
+      width: 200px;
+      }
+    }
+  }
+
