@@ -1,0 +1,14 @@
+.divBlock {
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
+  // color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 10px;
+  border-style: solid;
+  // border-color: yellow;
+  box-sizing: content-box;
+  // background-color: red;
+}
